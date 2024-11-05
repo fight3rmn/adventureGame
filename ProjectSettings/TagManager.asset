@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - playerSword
+  - enemyBody
+  - enemyArrow
+  - explosion
+  - spiderBody
+  - wall
+  - teleportPad
+  - heart
+  - coin
+  - pauseMenu
+  - playerArrow
+  - todo
+  - heartUpgrade
+  - energyBeam
+  - enemyThrownBomb
+  - stomachObject
+  - acid
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - passThrough
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: passThrough
+    uniqueID: 2168117775
+    locked: 0
